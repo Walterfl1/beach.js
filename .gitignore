@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Visual Studio / VSCode
+.vscode/
+
+# Environment files
+.env
+
+# Build outputs
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Ignore local image edits or sources if you don't want to track large files
+# Uncomment the next line if you plan to ignore raw images
+# assets/images/originals/
